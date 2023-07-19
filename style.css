@@ -1,0 +1,200 @@
+* {
+    background-color:rgb(255, 255, 255);
+}
+.logo {
+    margin-top: 0px;
+    margin-left: 100px;
+}
+
+.cat-green {
+float:right;
+float:top;
+}
+.cat-doshik {
+
+}
+
+.zagolovok1 {
+    font-size: 3.5rem;
+    font-family:'Oswald' ;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+.podzagolovok1 {
+    font-family: "Oswald";
+    margin-left: 170px;
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+
+.button {
+    background-color: #68B738;
+    color:#fff;
+    padding: 16px 12px;
+    margin-left: 190px;
+    font-family: "Oswald";
+    text-decoration: none;
+}
+.flex-container1 {
+    display:flex;
+    background-color:#68B738;
+
+}
+.zagolovok2 {
+   font-family: "Oswald";   
+   font-size:2rem;
+margin-bottom: 50px;
+   margin-left: 324px;
+}
+
+.cat-bodyfit {
+    margin-left: 100px;
+    margin-top:430px;
+    margin-bottom: -70px;
+    width:146px ;
+    height:146px ;
+}
+
+.text-bodyfit {
+    margin-left: 100px;
+    margin-top: 0px;
+}
+
+.button-2 {
+    font-family: "Oswald";
+    text-decoration: none;
+    color:black;
+    font-size:1.5rem;
+    margin-left: 100px;
+}
+
+.cat-nabor {
+float:right;
+margin-top:-290px;
+margin-right:390px;
+
+
+}
+.zagolovok3 {
+    float: right;
+    font-family: "Oswald";
+    font-size: 2rem;
+    margin-top: -222px;
+    margin-right: 150px;
+
+}
+
+.text-nabor {
+    float:right;
+    margin-right:100px;
+    margin-top: -124px; 
+}
+
+.button-3 {
+    font-family: "Oswald";
+    text-decoration: none;
+    color:black;
+    font-size:1.5rem;
+    float:right;
+    margin-right: 415px;
+    margin-top: -40px;
+}
+
+.zagolovok4 {
+    font-family: "Oswald";
+    font-size: 3.5rem;
+    margin-left: 50px;
+    margin-top: 100px;
+}
+
+.flex-container-2 {
+
+}
+
+.listik {
+margin-left: 100px;
+margin-top: 50px
+}
+
+.text-listik {
+    margin-left:100px;
+    margin-top: 30px
+}
+
+.voda {
+    margin-left: 400px;
+    margin-top:-370px;  
+}
+.text-voda {
+    margin-left: 400px;
+    margin-top:-110px;  
+}
+
+.vilka {
+    margin-left: 700px;
+    margin-top:-400px;
+}
+
+.text-vilka {   
+    margin-left: 700px; 
+    margin-top:-130px; 
+}
+.reloj {
+    margin-left: 1000px;
+    margin-top: -430px;
+}
+.text-reloj {
+    margin-left: 1000px;
+    margin-top: -145px
+}
+
+.zagolovok-5 {
+    font-family: "Oswald";
+    font-size: 3.5rem;
+    margin-left: 50px;
+    margin-top:80px;
+}
+
+.text-primer {
+    margin-left: 50px;
+    margin-top: 80px;
+}
+
+.five-kg {
+    font-family: "Oswald";
+    font-size: 2rem;
+    margin-left: 120px;
+    margin-top: 60px;
+}
+
+.ves {
+    margin-left: 90px;
+    margin-top:-20px;
+}
+.dny {
+    font-family: "Oswald";
+    font-size: 2rem; 
+    margin-left:250px;
+    margin-top:-85px
+}
+
+.potracheno {
+    margin-left: 230px;
+    margin-top:-20px;
+}
+
+.cat-cat {
+    float:right;
+    margin-top: -495px;
+    width: 500px;
+    height: 500px;
+    margin-right:200px;
+}
+
+.pitaniye {
+    font-family: "Oswald";
+    font-size: 1.2rem;
+    margin-left: 50px;
+    margin-top: 50px;
+}
